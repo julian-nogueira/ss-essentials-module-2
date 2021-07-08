@@ -12,7 +12,7 @@ public class Assignment3Main{
         rectangle.display(area);
 
         Assignment3Circle circle = new Assignment3Circle();
-        area = circle.calculateArea(3.0);
+        area = circle.calculateArea(3.0, 3.0);
         circle.display(area);
 
         Assignment3Triangle triangle = new Assignment3Triangle();

@@ -8,7 +8,5 @@ package com.ss.jb.two;
 public interface Assignment3Shape{
     public Double calculateArea(Double length, Double width);
 
-    public Double calculateArea(Double radius);
-
     public void display(Double area);
 }
